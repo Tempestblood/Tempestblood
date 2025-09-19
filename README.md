@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Computer Technician
+<!-- - 🔭 I’m currently working on Computer Technician
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
-biadnijsandiasd
+biadnijsandiasd -->
